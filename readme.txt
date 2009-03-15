@@ -15,6 +15,7 @@ A simple plugin that displays a specified number of posts from a category using 
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Place `[singlecat cat=(CAT#) level=(public or private) posts=(#ofPosts)]` in your posts, pages, or text widgets.
+1. Example: `[singlecat cat=23 level=private posts=10]`
 
 
 
